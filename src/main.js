@@ -1,7 +1,7 @@
 import Vue from "vue";
 import App from "./App.vue";
 
-Vue.config.productionTip = false;// 
+Vue.config.productionTip = false;// dd
 
 new Vue({
   render: h => h(App)
