@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>Hello Vue in CodeSandbox!</p>
+    <p>HelloWorld!</p>
     <h3>Installed CLI Plugins</h3>
     <ul>
       <li>
