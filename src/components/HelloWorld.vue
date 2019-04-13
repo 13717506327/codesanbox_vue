@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>HelloWorld! 劲松</p>   
+    <p>HelloWorld! json</p>   
   </div>
 </template>
 

@@ -1,0 +1,10 @@
+<template>
+  <div class="my-table">
+    <h3>table页面</h3>
+  </div>
+</template>
+<script>
+export default {
+  
+}
+</script>
