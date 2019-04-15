@@ -6,15 +6,17 @@ import Home from "./views/Home";
 import Table from "./views/Table";
 
 Vue.use(Router);
-export default new Router(
-  {
-    path: "/",
-    name: "home",
-    component: Home
-  },
-  {
-    path: "/table",
-    name: "table",
-    component: Table
-  }
-);
+export default new Router({
+  routes: [
+    {
+      path: "/",
+      name: "home",
+      component: Home
+    },
+    {
+      path: "/table",
+      name: "table",
+      component: Table
+    }
+  ]
+});
